@@ -11,7 +11,7 @@
     <style>
         body {
             /* background-image: radial-gradient(red, green); */
-            background-image: https://github.com/aalsharbini/Lab-5-/blob/main/Planets/planets.jpg(planets/planets.jpg);
+            background-image: URL( https://github.com/aalsharbini/Lab-5-/blob/main/Planets/planets.jpg);
             background-repeat: no-repeat;
             background-position: center center;
             background-size: cover;
